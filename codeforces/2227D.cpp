@@ -1,4 +1,4 @@
-// Parth Parmar (ParthParmar_06)
+// Parth Parmar (Parth-Parmar)
 // 20 Nov 2026
 
 #include <bits/stdc++.h>
